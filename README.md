@@ -1,6 +1,6 @@
-# 🎮 GamesPlay Web Application
+🎮 GamesPlay Web Application
 
-----
+---
 
 ## 📌 Overview
 This project is a Single Page Application (SPA) for managing a game collection. It allows users to browse, create, edit, and delete games, as well as register and log in to their accounts. The application interacts with a REST service for user authentication and game management.
