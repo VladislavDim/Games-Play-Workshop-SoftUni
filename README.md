@@ -3,6 +3,8 @@
 ## 📌 Overview
 This project is a Single Page Application (SPA) for managing a game collection. It allows users to browse, create, edit, and delete games, as well as register and log in to their accounts. The application interacts with a REST service for user authentication and game management.
 
+---
+
 ## 🏗️ Project Structure
 ### 🔹 The project includes:
 #### 🚀 Frontend:
@@ -11,6 +13,8 @@ This project is a Single Page Application (SPA) for managing a game collection. 
 - A local REST service for handling user authentication and game data.
 #### 📦 Resources:
 - Provided HTML structure, CSS styles, backend server, and images.
+  
+---
 
 ## ✨ Features
 ### 👥 Guest Users:
@@ -24,6 +28,8 @@ This project is a Single Page Application (SPA) for managing a game collection. 
 - ✅ View game details.
 - ✅ Add comments to other users' games.
 - ✅ Log out.
+  
+---
 
 ## 🚀 Setup and Running
 ### 1️⃣ Start the Backend Service
@@ -37,6 +43,8 @@ npm install
 - Then start the development server with Vite:
 npm run dev
 - This will launch the frontend on a local development server.
+  
+---
 
 # 📡 API Endpoints
 
