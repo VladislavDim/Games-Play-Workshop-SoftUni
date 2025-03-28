@@ -1,11 +1,7 @@
 # 🎮 GamesPlay Web Application
 
----
-
 ## 📌 Overview
 This project is a Single Page Application (SPA) for managing a game collection. It allows users to browse, create, edit, and delete games, as well as register and log in to their accounts. The application interacts with a REST service for user authentication and game management.
-
----
 
 ## 🏗️ Project Structure
 ### 🔹 The project includes:
@@ -15,8 +11,6 @@ This project is a Single Page Application (SPA) for managing a game collection. 
 - A local REST service for handling user authentication and game data.
 #### 📦 Resources:
 - Provided HTML structure, CSS styles, backend server, and images.
-  
----
 
 ## ✨ Features
 ### 👥 Guest Users:
@@ -31,8 +25,6 @@ This project is a Single Page Application (SPA) for managing a game collection. 
 - ✅ Add comments to other users' games.
 - ✅ Log out.
   
----
-
 ## 🚀 Setup and Running
 ### 1️⃣ Start the Backend Service
 - Navigate to the server folder and run:
@@ -46,8 +38,6 @@ npm install
 npm run dev
 - This will launch the frontend on a local development server.
   
----
-
 # 📡 API Endpoints
 
 ## 🔑 **User Authentication**
@@ -66,8 +56,6 @@ npm run dev
 - **Get Comments for Game**: `GET /data/comments?where=gameId%3D%22{gameId}%22`
 - **Add Comment**: `POST /data/comments`
 
----
-
 # 🛠️ **Technologies Used**
 - 🚀 **Vite** - Fast development and bundling.
 - 🎨 **React** - Modern UI framework.
@@ -76,12 +64,8 @@ npm run dev
 - 🖥️ **Node.js** - Backend service.
 - 🌐 **REST API** - Data management.
 
----
-
 # 🏆 **Credits**
 Some of the resources, including HTML structure, CSS styles, images, and the backend service, were provided by SoftUni as part of an educational workshop.
-
----
 
 # 📜 **License**
 This project is MIT Licensed. Feel free to use, modify, and distribute it, but please give credit where due. 🚀
