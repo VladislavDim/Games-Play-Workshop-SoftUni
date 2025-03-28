@@ -1,4 +1,4 @@
-###🎮 GamesPlay Web Application
+### 🎮 GamesPlay Web Application
 
 ---
 
