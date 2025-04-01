@@ -1,4 +1,14 @@
+import { useEffect } from "react";
+import gameService from "../../api/gameService";
+
 export default function GameCatalog() {
+    useEffect(() => {
+        gameService.getAll()
+            .then(r => {
+                console.log(r);
+            });
+    }, []);
+    
     return (
         <section id="catalog-page">
             <h1>All Games</h1>
@@ -29,7 +39,7 @@ export default function GameCatalog() {
                     <a href="#" className="details-button">Details</a>
                 </div>
             </div>
-             
+
             {/* Display paragraph: If there is no games  */}
             <h3 className="no-articles">No articles yet</h3>
         </section>
