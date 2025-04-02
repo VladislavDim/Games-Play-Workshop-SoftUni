@@ -7,6 +7,9 @@ export default {
         const result = await request.get(baseUrl);
         return Object.values(result);
     },
+    getOne(gameId) {
+        return request.get(`${baseUrl}/${gameId}`);
+    },
     create(gameData) {
         return request.post(baseUrl, gameData);
     }
