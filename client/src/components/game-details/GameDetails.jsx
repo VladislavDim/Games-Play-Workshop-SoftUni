@@ -1,4 +1,4 @@
-import { useParams, useNavigate } from "react-router";
+import { useParams, useNavigate, Link } from "react-router";
 import gameService from "../../api/gameService.js";
 import { useEffect, useState } from "react";
 
@@ -55,7 +55,7 @@ export default function GameDetails() {
 
                 {/* Edit/Delete buttons ( Only for creator of this game )  */}
                 <div className="buttons">
-                    <a href="#" className="button">Edit</a>
+                    <Link to={`/games/${gameId}/edit`} className="button">Edit</Link>
                     <button
                         onClick={onDelete}
                         className="button"
