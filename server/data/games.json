@@ -1,0 +1,82 @@
+{
+    "c5f8d8a1-4e6b-4d8f-bf4d-1a7f1c8e6d3b": {
+        "title": "The Witcher 3: Wild Hunt",
+        "category": "Action RPG",
+        "maxLevel": "50",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
+        "summary": "Players control Geralt of Rivia, a monster slayer for hire known as a Witcher. He embarks on a quest to find his missing adopted daughter, who is on the run from the Wild Hunt. The game features an open world and uses a third-person perspective.",
+        "_id": "c5f8d8a1-4e6b-4d8f-bf4d-1a7f1c8e6d3b"
+    },
+    "a3d2f6b4-5c7d-4622-bb5e-8e2c5f8b9d1a": {
+        "title": "Red Dead Redemption 2",
+        "category": "Action-adventure",
+        "maxLevel": "Unknown",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
+        "summary": "Set in 1899, the game follows Arthur Morgan, an outlaw and member of the Van der Linde gang. Players can interact with the open world in various ways, including hunting, fishing, and engaging in gunfights.",
+        "_id": "a3d2f6b4-5c7d-4622-bb5e-8e2c5f8b9d1a"
+    },
+    "b6e4a8c9-2d4f-46d8-8c9a-3a1b5f2e7d6c": {
+        "title": "Cyberpunk 2077",
+        "category": "Action RPG",
+        "maxLevel": "50",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+        "summary": "Players assume the role of V, a mercenary in Night City. The game features branching storylines, deep RPG mechanics, and a massive open world filled with cybernetic enhancements and futuristic technology.",
+        "_id": "b6e4a8c9-2d4f-46d8-8c9a-3a1b5f2e7d6c"
+    },
+    "d8f9b2e3-1a4c-4f7e-bd3d-9c8e5f6a7d2b": {
+        "title": "Dark Souls III",
+        "category": "Action RPG",
+        "maxLevel": "802",
+        "imageUrl": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/OFMeAw2KhrdaEZAjW1f3tCIXbogkLpTC.png",
+        "summary": "A challenging action RPG where players traverse the Kingdom of Lothric, battling powerful enemies and bosses in a dark fantasy world.",
+        "_id": "d8f9b2e3-1a4c-4f7e-bd3d-9c8e5f6a7d2b"
+    },
+    "e1c6b3d7-5f8a-472c-b4e9-1d7f2a5c6b9e": {
+        "title": "God of War (2018)",
+        "category": "Action-adventure",
+        "maxLevel": "Unknown",
+        "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/LsaRVLF2IU2L1FNtu9d3MKLq.jpg",
+        "summary": "Kratos and his son Atreus journey through the world of Norse mythology. The game features intense combat, a deep story, and exploration elements.",
+        "_id": "e1c6b3d7-5f8a-472c-b4e9-1d7f2a5c6b9e"
+    },
+    "f2b8c6e3-4d5a-49e7-9f1c-6d8a2b3e5f7c": {
+        "title": "Elden Ring",
+        "category": "Action RPG",
+        "maxLevel": "713",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1301/308f8421ff74f3b061b231defc364d3f01e1710ea6fe6876.png",
+        "summary": "A massive open-world RPG developed by FromSoftware, blending Souls-like combat with exploration and storytelling crafted with the help of George R.R. Martin.",
+        "_id": "f2b8c6e3-4d5a-49e7-9f1c-6d8a2b3e5f7c"
+    },
+    "g7d5f9c2-1e8b-4a6d-b3f7-2c9e4a5b6d8f": {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "category": "Action-adventure",
+        "maxLevel": "Unknown",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg/250px-The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+        "summary": "Players control Link as he explores the vast open world of Hyrule, solving puzzles, fighting enemies, and uncovering the mystery of Calamity Ganon.",
+        "_id": "g7d5f9c2-1e8b-4a6d-b3f7-2c9e4a5b6d8f"
+    },
+    "h6e2b3d7-5f9a-4c8d-9f1e-2a7c5d8b6f4e": {
+        "title": "Horizon Zero Dawn",
+        "category": "Action RPG",
+        "maxLevel": "60",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2716/16b33fa9a5c7285ba86a035b4a1c5f8eb430b407eae35ffd.png",
+        "summary": "Players control Aloy, a hunter in a post-apocalyptic world dominated by robotic creatures. The game features a mix of ranged combat, stealth, and crafting.",
+        "_id": "h6e2b3d7-5f9a-4c8d-9f1e-2a7c5d8b6f4e"
+    },
+    "i3d5b6e7-8f9a-4c2d-1e7f-5a9b3d4f6c8e": {
+        "title": "Minecraft",
+        "category": "Sandbox",
+        "maxLevel": "Unknown",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png",
+        "summary": "A sandbox game that allows players to build, explore, and survive in procedurally generated worlds. Features survival and creative modes.",
+        "_id": "i3d5b6e7-8f9a-4c2d-1e7f-5a9b3d4f6c8e"
+    },
+    "j5f9d6e3-8b7a-4c2d-1e9f-3a5b4d7f6c8e": {
+        "title": "Doom Eternal",
+        "category": "First-person shooter",
+        "maxLevel": "Unknown",
+        "imageUrl": "https://cms-assets.xboxservices.com/assets/9f/a1/9fa1b5f0-be24-4468-bf5a-90a63763d0d1.jpg?n=DOOM-Eternal_GLP-Page-Hero-0_1083x1222_01.jpg",
+        "summary": "Players take on the role of the Doom Slayer, battling demonic forces in fast-paced, brutal combat across a variety of intense environments.",
+        "_id": "j5f9d6e3-8b7a-4c2d-1e9f-3a5b4d7f6c8e"
+    }
+}
