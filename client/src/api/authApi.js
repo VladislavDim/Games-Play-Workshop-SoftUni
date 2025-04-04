@@ -8,11 +8,11 @@ export const useLogin = () => {
 
     const login = async (email, password) => {
 
-        abortRef.current?.abort(); 
-        abortRef.current = new AbortController(); 
+        abortRef.current?.abort();
+        abortRef.current = new AbortController();
 
         return request.post(`${baseUrl}/login`, { email, password }, { signal: abortRef.current.signal });
-        
+
     }
 
     useEffect(() => {
@@ -24,3 +24,12 @@ export const useLogin = () => {
     }
 }
 
+export const useRegister = () => {
+    const register = (email, password) => {
+        return request.post(`${baseUrl}/register`, { email, password });
+    };
+
+    return {
+        register
+    }
+}
