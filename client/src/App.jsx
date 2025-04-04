@@ -29,7 +29,7 @@ function App() {
                 <main id="main-content">
                     <Routes>
                         <Route path='/' element={<Home />} />
-                        <Route path='/login' element={<Login onLogin={userLoginHandler} />} />
+                        <Route path='/login' element={<Login />} />
                         <Route path='/register' element={<Register />} />
                         <Route path='/games/create' element={<GameCreate />} />
                         <Route path='/games/:gameId/edit' element={<GameEdit />} />
