@@ -6,6 +6,7 @@ import { UserContext } from './context/userContext'
 import Header from './components/header/Header'
 import Home from './components/home/Home'
 import Login from './components/login/Login'
+import Logout from './components/logout/Logout'
 import Register from './components/Register/Register'
 import GameCreate from './components/game-create/GameCreate'
 import GameEdit from './components/game-edit/GameEdit'
@@ -35,6 +36,7 @@ function App() {
                         <Route path='/games/:gameId/edit' element={<GameEdit />} />
                         <Route path='/games/:gameId/details' element={<GameDetails />} />
                         <Route path='/games/catalog' element={<GameCatalog />} />
+                        <Route path='/logout' element={<Logout />} />
                     </Routes>
                     <Home />
                 </main>
