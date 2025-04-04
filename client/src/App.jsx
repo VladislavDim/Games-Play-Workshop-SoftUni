@@ -13,10 +13,10 @@ import GameCatalog from './components/game-catalog/GameCatalog'
 import './App.css'
 
 function App() {
-    const [email, setEmail] = useState('');
+    const [authData, setAuthData] = useState({});
 
-    const userLoginHandler = (authData) => {
-        setEmail(authData.email);
+    const userLoginHandler = (data) => {
+        setAuthData(data);
     };
 
     return (
@@ -30,7 +30,7 @@ function App() {
                     <Route path='/register' element={<Register />} />
                     <Route path='/games/create' element={<GameCreate />} />
                     <Route path='/games/:gameId/edit' element={<GameEdit />} />
-                    <Route path='/games/:gameId/details' element={<GameDetails />} />
+                    <Route path='/games/:gameId/details' element={<GameDetails email={authData.email} />} />
                     <Route path='/games/catalog' element={<GameCatalog />} />
                 </Routes>
                 <Home />
