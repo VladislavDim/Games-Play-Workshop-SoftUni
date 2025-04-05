@@ -42,7 +42,6 @@ function App() {
                         <Route path='/games/catalog' element={<GameCatalog />} />
                         <Route path='/logout' element={<Logout />} />
                     </Routes>
-                    <Home />
                 </main>
             </div>
         </UserContext.Provider>
